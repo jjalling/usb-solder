@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "st-mcu")(type "KiCad")(uri "/tmp/st-mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "/home/jbj/devel/Electronics/soldering-iron-pd/soldering-iron/New_Library.kicad_sym")(options "")(descr ""))
+)
