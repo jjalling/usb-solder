@@ -386,7 +386,6 @@
         "microvia_drill": 0.1,
         "name": "USB",
         "nets": [
-          "/USB_D+",
           "/USB_D-"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -445,7 +444,7 @@
   },
   "sheets": [
     [
-      "105a3e40-5827-4a81-8a4a-85ec481e4f47",
+      "d15793e4-da96-41cb-95bd-809b40fc10d6",
       ""
     ]
   ],
